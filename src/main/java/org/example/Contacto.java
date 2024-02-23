@@ -19,6 +19,6 @@ public class Contacto {
 
   @Override
   public String toString() {
-    return  "nombre='" + nombre + '\'' + " telefono='" + telefono + '\'' ;
+    return  "nombre =" + nombre + '\'' + " telefono =" + telefono + '\'' ;
   }
 }
